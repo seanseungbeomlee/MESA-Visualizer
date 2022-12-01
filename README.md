@@ -1,2 +1,4 @@
 # MESA Visualizer
 Creates animation of Roche-lobe geometry evolution and masses in binary star systems using MESA history outputs.
+Sample animation:
+![](https://github.com/seanseungbeomlee/MESA-Visualizer/tree/main/sample/15M13M.mp4)
